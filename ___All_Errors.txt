@@ -1,0 +1,11 @@
+CorrelationId: c32a3c71-3d5c-4464-8c27-d340ce426b00
+UTC DateTime: 02/08/2023 13:12:40
+
+The following files/folders have not been downloaded
+0. Assets/Packages/Dark_Brown_GUI_kit/skill_icon/ice/ice_gliphs.png
+1. Assets/Packages/Dark_Brown_GUI_kit/skill_icon/ice/ice_gliphs.png.meta
+2. Assets/Packages/Dark_Brown_GUI_kit/skill_icon/thunder/thunder_bolts.png
+3. Assets/Packages/Dark_Brown_GUI_kit/skill_icon/thunder/thunder_bolts.png.meta
+4. Assets/Packages/Dark_Brown_GUI_kit/skill_icon/thunder/thunder_sword.png
+5. Assets/Packages/Dark_Brown_GUI_kit/skill_icon/thunder/thunder_sword.png.meta
+6. Assets/Packages/Dark_Brown_GUI_kit/skill_icon/fire.meta
